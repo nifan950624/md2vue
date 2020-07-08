@@ -12,12 +12,12 @@
   "dependencies": {
     "highlight": "^0.2.4",
     "highlight.js": "^10.1.1",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^7.1.0",
     "@vue/component-compiler-utils": "^2.6.0",
     "autoprefixer": "^7.1.2",
     "transliteration": "^1.1.11",
